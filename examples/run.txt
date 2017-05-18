@@ -1,0 +1,22 @@
+add examples/amsterdam-channel.jpg
+add examples/amsterdam-city.jpg
+add examples/bi-lin.png
+add examples/bi-pa2.png
+add examples/bratislava-petrzalka-timelapse.mp4
+add examples/hamburg-port.jpg
+add examples/charles-bridge-timelapse.mp4
+add examples/neuschwanstein-castle.jpg
+add examples/grass-close-up.jpg
+add examples/koln-city.jpg
+add examples/sunset-panorama.jpg
+add examples/progtest.png
+add examples/vaclavske-namesti-timelapse.mov
+add examples/vysoke-tatry-panorama.jpg
+add examples/vysoke-tatry-strbske-pleso.jpg
+add examples/run.txt
+add zadani.txt
+add prohlaseni.txt
+export example-database.txt
+search all
+search image width 502
+exit

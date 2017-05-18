@@ -1,0 +1,13 @@
+Meta vyhledavač
+
+Uložené fotografie, videa a textové dokumenty na pevných discích jdou vyhledávat pouze podle názvů a datumů, ale mohlo by být výhodné je hledat podle jiných informací, například podle GPS
+
+Implementujte následující funkcionalitu
+
+Načítání různých souborů (obrázky, videa, textové dokumenty)
+Ukládání metadat pro potřeby vyhledávání
+Vyhledávání podle zaznamenaných metadat
+Nástroj musí dále splňovat následující funkcionality:
+
+Import a export databáze
+Načítání metadat dle podporovaných formátů

@@ -1,0 +1,18 @@
+JPG|/Users/peter/Desktop/hajtopet/examples|amsterdam-channel.jpg|435700|1111|741|NIKON CORPORATION|NIKON D3100|0|0
+JPG|/Users/peter/Desktop/hajtopet/examples|amsterdam-city.jpg|228630|1103|736|NIKON CORPORATION|NIKON D3100|0|0
+PNG|/Users/peter/Desktop/hajtopet/examples|bi-lin.png|137569|502|371
+PNG|/Users/peter/Desktop/hajtopet/examples|bi-pa2.png|409502|502|502
+VID|/Users/peter/Desktop/hajtopet/examples|bratislava-petrzalka-timelapse.mp4|182879|0|0|0|0|Unknown
+JPG|/Users/peter/Desktop/hajtopet/examples|hamburg-port.jpg|198464|487|366|Apple|iPhone 6s|53.5452|9.96803
+VID|/Users/peter/Desktop/hajtopet/examples|charles-bridge-timelapse.mp4|287598|0|0|0|0|Unknown
+JPG|/Users/peter/Desktop/hajtopet/examples|neuschwanstein-castle.jpg|168572|816|612|Apple|iPhone 5s|47.5551|10.7492
+JPG|/Users/peter/Desktop/hajtopet/examples|grass-close-up.jpg|229596|1008|756|Apple|iPhone 6s|49.0471|21.3392
+JPG|/Users/peter/Desktop/hajtopet/examples|koln-city.jpg|262511|1152|768|NIKON CORPORATION|NIKON D3100|0|0
+JPG|/Users/peter/Desktop/hajtopet/examples|sunset-panorama.jpg|25240|473|192|Apple|iPhone 6s|49.0218|21.3612
+PNG|/Users/peter/Desktop/hajtopet/examples|progtest.png|5763|200|68
+VID|/Users/peter/Desktop/hajtopet/examples|vaclavske-namesti-timelapse.mov|780730|0|0|0|0|Unknown
+JPG|/Users/peter/Desktop/hajtopet/examples|vysoke-tatry-panorama.jpg|26977|540|109|Apple|iPhone 5s|49.1498|20.0896
+JPG|/Users/peter/Desktop/hajtopet/examples|vysoke-tatry-strbske-pleso.jpg|219004|816|612|Apple|iPhone 5s|49.1498|20.0896
+TXT|/Users/peter/Desktop/hajtopet/examples|run.txt|641|22|80|620
+TXT|/Users/peter/Desktop/hajtopet/|zadani.txt|567|13|174|554
+TXT|/Users/peter/Desktop/hajtopet/|prohlaseni.txt|131|3|34|128
